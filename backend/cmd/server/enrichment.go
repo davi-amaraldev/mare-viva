@@ -130,6 +130,13 @@ func seedScience(db *sql.DB) error {
 		var exists int
 		_ = tx.QueryRow("SELECT COUNT(*) FROM species WHERE scientific_name=?", x.Scientific).Scan(&exists)
 		if exists > 0 {
+			// Preenche imagens específicas nas espécies ainda usando a silhueta padrão;
+			// imagens escolhidas pela equipe no painel são preservadas.
+			if x.Image != "" && x.Image != "/images/shark-silhouette.svg" {
+				if _, e := tx.Exec("UPDATE species SET image_url=? WHERE scientific_name=? AND image_url IN ('', '/images/shark-silhouette.svg')", x.Image, x.Scientific); e != nil {
+					return e
+				}
+			}
 			continue
 		}
 		res, e := tx.Exec(`INSERT INTO species(common_name,scientific_name,image_url,description,physical_characteristics,size,diet,habitat,distribution,brazil_presence,northeast_presence,ecology,threats,brazil_status,iucn_status,published,source_note,national_assessment_year,iucn_assessment_year)
