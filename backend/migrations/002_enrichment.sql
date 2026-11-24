@@ -1,0 +1,15 @@
+CREATE TABLE IF NOT EXISTS schema_migrations(version INTEGER PRIMARY KEY, applied_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE IF NOT EXISTS seed_keys(entity TEXT NOT NULL, seed_key TEXT NOT NULL, record_id INTEGER NOT NULL, PRIMARY KEY(entity,seed_key));
+ALTER TABLE species ADD COLUMN national_assessment_year INTEGER;
+ALTER TABLE species ADD COLUMN iucn_assessment_year INTEGER;
+ALTER TABLE species ADD COLUMN source_note TEXT NOT NULL DEFAULT '';
+ALTER TABLE indicators ADD COLUMN taxonomic_group TEXT NOT NULL DEFAULT '';
+ALTER TABLE indicators ADD COLUMN source_url TEXT NOT NULL DEFAULT '';
+ALTER TABLE observations ADD COLUMN is_demo INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE observations ADD COLUMN demo_key TEXT;
+CREATE UNIQUE INDEX IF NOT EXISTS idx_observations_demo_key ON observations(demo_key);
+ALTER TABLE quiz_questions ADD COLUMN source_url TEXT NOT NULL DEFAULT '';
+CREATE INDEX IF NOT EXISTS idx_species_published ON species(published,archived);
+CREATE INDEX IF NOT EXISTS idx_indicators_published_year ON indicators(published,year);
+CREATE INDEX IF NOT EXISTS idx_observations_demo_status ON observations(is_demo,status);
+INSERT OR IGNORE INTO schema_migrations(version) VALUES (2);

@@ -1,0 +1,40 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# Local databases and SQLite journals
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+backend/data/
+
+# Dependencies and generated builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+coverage/
+*.out
+*.test
+mare-viva-api
+
+# Logs, temporary files, editor and OS metadata
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

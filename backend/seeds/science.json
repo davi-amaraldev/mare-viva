@@ -1,0 +1,1645 @@
+{
+  "Sources": [
+    {
+      "Key": "recife",
+      "Title": "Estrutura e dinâmica da assembleia de tubarões ao largo de Recife",
+      "Author": "Afonso, Andrade & Hazin",
+      "Year": 2014,
+      "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102369",
+      "DOI": "10.1371/journal.pone.0102369",
+      "Kind": "Artigo revisado por pares",
+      "Description": "Amostragem padronizada de tubarões no litoral de Recife entre 2004 e 2011; evidência regional para as espécies registradas."
+    },
+    {
+      "Key": "mma",
+      "Title": "Portaria GM/MMA nº 1.667/2026 — Lista Nacional Oficial da Fauna Ameaçada",
+      "Author": "MMA",
+      "Year": 2026,
+      "URL": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/saiba-mais/documentos-e-downloads/9-portaria-gm_mma-no-1-667-de-27-de-abril-de-2026.pdf",
+      "DOI": "",
+      "Kind": "Norma oficial",
+      "Description": "Categorias nacionais da lista oficial atualizada. Esta referência contém tubarões e raias, mas as categorias são registradas por espécie."
+    },
+    {
+      "Key": "iucn2024",
+      "Title": "2024 Global Status Report on Sharks, Rays and Chimaeras",
+      "Author": "IUCN SSC Shark Specialist Group",
+      "Year": 2024,
+      "URL": "https://iucnssg.org/resources/publications/2024-global-status-report/",
+      "DOI": "",
+      "Kind": "Relatório científico",
+      "Description": "Síntese global de elasmobrânquios e quimeras; não confundir o grupo com tubarões isoladamente."
+    },
+    {
+      "Key": "iucn2021",
+      "Title": "Over  one-third of sharks, rays, and chimaeras are threatened with extinction",
+      "Author": "Dulvy et al.",
+      "Year": 2021,
+      "URL": "https://doi.org/10.1016/j.cub.2021.08.062",
+      "DOI": "10.1016/j.cub.2021.08.062",
+      "Kind": "Artigo revisado por pares",
+      "Description": "Avaliação global de condrictes, incluindo tubarões, raias e quimeras."
+    },
+    {
+      "Key": "nature2021",
+      "Title": "Global abundance of oceanic sharks and rays has declined by 71% over the past half-century",
+      "Author": "Pacoureau et al.",
+      "Year": 2021,
+      "URL": "https://doi.org/10.1038/s41586-020-03173-9",
+      "DOI": "10.1038/s41586-020-03173-9",
+      "Kind": "Artigo revisado por pares",
+      "Description": "Tendência de abundância de espécies oceânicas de tubarões e raias, 1970–2018; não representa todos os tubarões."
+    },
+    {
+      "Key": "science2024",
+      "Title": "Global shark fishing mortality has increased",
+      "Author": "Worm et al.",
+      "Year": 2024,
+      "URL": "https://pubmed.ncbi.nlm.nih.gov/38207048/",
+      "DOI": "10.1126/science.adf8984",
+      "Kind": "Artigo revisado por pares",
+      "Description": "Estimativas globais de mortalidade pesqueira de tubarões."
+    },
+    {
+      "Key": "sdg2025",
+      "Title": "SDG Goal 14: Life Below Water — Progress and information",
+      "Author": "United Nations Statistics Division",
+      "Year": 2025,
+      "URL": "https://unstats.un.org/sdgs/report/2025/goal-14/",
+      "DOI": "",
+      "Kind": "Relatório oficial ONU",
+      "Description": "Indicadores globais de conservação marinha usados para contextualizar o ODS 14."
+    },
+    {
+      "Key": "pan",
+      "Title": "PAN Tubarões — 2º ciclo",
+      "Author": "ICMBio",
+      "Year": 2025,
+      "URL": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/biodiversidade-marinha-do-sudeste-e-sul/o-que-fazemos/pan-tubaroes",
+      "DOI": "",
+      "Kind": "Plano de ação nacional",
+      "Description": "Plano para conservação de tubarões e raias ameaçados no Brasil; números abrangem elasmobrânquios."
+    },
+    {
+      "Key": "ufc2025",
+      "Title": "Caracterização e monitoramento de tubarões-lixa no Ceará",
+      "Author": "Repositório Institucional UFC",
+      "Year": 2025,
+      "URL": "https://repositorio.ufc.br/handle/riufc/80774",
+      "DOI": "",
+      "Kind": "Trabalho acadêmico",
+      "Description": "Trabalho de conclusão com amostragens do tubarão-lixa em diferentes períodos; resultados são amostrais e locais."
+    },
+    {
+      "Key": "noronha",
+      "Title": "Projeto ECOTUBA desenvolve ações educativas e monitoramento de tubarões",
+      "Author": "Administração de Fernando de Noronha",
+      "Year": 2024,
+      "URL": "https://www.noronha.pe.gov.br/em-noronha-projeto-ecotuba-desenvolve-acoes-educativas-e-monitoramento-de-tubaroes/",
+      "DOI": "",
+      "Kind": "Página institucional",
+      "Description": "Registro institucional sobre ECOTUBA, sua relação histórica com PROTUBA/UFRPE e as ações citadas."
+    },
+    {
+      "Key": "fao2026",
+      "Title": "The State of World Fisheries and Aquaculture 2026",
+      "Author": "FAO",
+      "Year": 2026,
+      "URL": "https://www.fao.org/newsroom/detail/sofia-2026--global-fisheries-and-aquaculture-production-reaches-new-highs/",
+      "DOI": "",
+      "Kind": "Relatório oficial",
+      "Description": "Indicador global de estoques pesqueiros em geral; não é indicador específico de tubarões."
+    },
+    {
+      "Key": "ods",
+      "Title": "Goal 14: Conserve and sustainably use the oceans",
+      "Author": "United Nations",
+      "Year": 2025,
+      "URL": "https://sdgs.un.org/goals/goal14",
+      "DOI": "",
+      "Kind": "ODS",
+      "Description": "Metas e contexto da Agenda 2030 para conservação e uso sustentável dos oceanos."
+    },
+    {
+      "Key": "iucn-Galeocerdo cuvier",
+      "Title": "IUCN Red List assessment: Galeocerdo cuvier",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39378/2913541",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Galeocerdo cuvier; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Ginglymostoma cirratum",
+      "Title": "IUCN Red List assessment: Ginglymostoma cirratum",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/144141186/3095153",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Ginglymostoma cirratum; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna lewini",
+      "Title": "IUCN Red List assessment: Sphyrna lewini",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39385/2918526",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna lewini; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Negaprion brevirostris",
+      "Title": "IUCN Red List assessment: Negaprion brevirostris",
+      "Author": "IUCN",
+      "Year": 2020,
+      "URL": "https://www.iucnredlist.org/species/39380/2915472",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Negaprion brevirostris; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Rhincodon typus",
+      "Title": "IUCN Red List assessment: Rhincodon typus",
+      "Author": "IUCN",
+      "Year": 2025,
+      "URL": "https://www.iucnredlist.org/species/19488/126673248",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Rhincodon typus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus leucas",
+      "Title": "IUCN Red List assessment: Carcharhinus leucas",
+      "Author": "IUCN",
+      "Year": 2020,
+      "URL": "https://www.iucnredlist.org/species/39372/2910670",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus leucas; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus perezi",
+      "Title": "IUCN Red List assessment: Carcharhinus perezi",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/60217/3093780",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus perezi; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus limbatus",
+      "Title": "IUCN Red List assessment: Carcharhinus limbatus",
+      "Author": "IUCN",
+      "Year": 2020,
+      "URL": "https://www.iucnredlist.org/species/3851/2870736",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus limbatus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus acronotus",
+      "Title": "IUCN Red List assessment: Carcharhinus acronotus",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/161378/887542",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus acronotus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus falciformis",
+      "Title": "IUCN Red List assessment: Carcharhinus falciformis",
+      "Author": "IUCN",
+      "Year": 2017,
+      "URL": "https://www.iucnredlist.org/species/39370/205782570",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus falciformis; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Rhizoprionodon lalandii",
+      "Title": "IUCN Red List assessment: Rhizoprionodon lalandii",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/44666/2999242",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Rhizoprionodon lalandii; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna mokarran",
+      "Title": "IUCN Red List assessment: Sphyrna mokarran",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39386/2920499",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna mokarran; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Prionace glauca",
+      "Title": "IUCN Red List assessment: Prionace glauca",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39381/2915850",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Prionace glauca; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus longimanus",
+      "Title": "IUCN Red List assessment: Carcharhinus longimanus",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39374/2911619",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus longimanus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus plumbeus",
+      "Title": "IUCN Red List assessment: Carcharhinus plumbeus",
+      "Author": "IUCN",
+      "Year": 2020,
+      "URL": "https://www.iucnredlist.org/species/3853/2874370",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus plumbeus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus porosus",
+      "Title": "IUCN Red List assessment: Carcharhinus porosus",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/144136822/3094594",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus porosus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus signatus",
+      "Title": "IUCN Red List assessment: Carcharhinus signatus",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/60219/3094326",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus signatus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna zygaena",
+      "Title": "IUCN Red List assessment: Sphyrna zygaena",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39388/2921825",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna zygaena; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna tiburo",
+      "Title": "IUCN Red List assessment: Sphyrna tiburo",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/39387/205765567",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna tiburo; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna tudes",
+      "Title": "IUCN Red List assessment: Sphyrna tudes",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/60202/3091946",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna tudes; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Sphyrna media",
+      "Title": "IUCN Red List assessment: Sphyrna media",
+      "Author": "IUCN",
+      "Year": 2019,
+      "URL": "https://www.iucnredlist.org/species/60201/3091753",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Sphyrna media; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Carcharhinus obscurus",
+      "Title": "IUCN Red List assessment: Carcharhinus obscurus",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/3852/2872747",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Carcharhinus obscurus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "iucn-Isurus oxyrinchus",
+      "Title": "IUCN Red List assessment: Isurus oxyrinchus",
+      "Author": "IUCN",
+      "Year": 2018,
+      "URL": "https://www.iucnredlist.org/species/39341/2903170",
+      "DOI": "",
+      "Kind": "Avaliação de espécie",
+      "Description": "Categoria global da IUCN para Isurus oxyrinchus; data de avaliação consultada em FishBase, ficha ligada à Red List."
+    },
+    {
+      "Key": "fishbase-Galeocerdo cuvier",
+      "Title": "Species summary: Galeocerdo cuvier",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Galeocerdo_cuvier.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Ginglymostoma cirratum",
+      "Title": "Species summary: Ginglymostoma cirratum",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Ginglymostoma_cirratum.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna lewini",
+      "Title": "Species summary: Sphyrna lewini",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_lewini.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Negaprion brevirostris",
+      "Title": "Species summary: Negaprion brevirostris",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Negaprion_brevirostris.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Rhincodon typus",
+      "Title": "Species summary: Rhincodon typus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Rhincodon_typus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus leucas",
+      "Title": "Species summary: Carcharhinus leucas",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_leucas.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus perezi",
+      "Title": "Species summary: Carcharhinus perezi",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_perezi.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus limbatus",
+      "Title": "Species summary: Carcharhinus limbatus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_limbatus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus acronotus",
+      "Title": "Species summary: Carcharhinus acronotus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_acronotus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus falciformis",
+      "Title": "Species summary: Carcharhinus falciformis",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_falciformis.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Rhizoprionodon lalandii",
+      "Title": "Species summary: Rhizoprionodon lalandii",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Rhizoprionodon_lalandii.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna mokarran",
+      "Title": "Species summary: Sphyrna mokarran",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_mokarran.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Prionace glauca",
+      "Title": "Species summary: Prionace glauca",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Prionace_glauca.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus longimanus",
+      "Title": "Species summary: Carcharhinus longimanus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_longimanus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus plumbeus",
+      "Title": "Species summary: Carcharhinus plumbeus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_plumbeus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus porosus",
+      "Title": "Species summary: Carcharhinus porosus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_porosus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus signatus",
+      "Title": "Species summary: Carcharhinus signatus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_signatus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna zygaena",
+      "Title": "Species summary: Sphyrna zygaena",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_zygaena.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna tiburo",
+      "Title": "Species summary: Sphyrna tiburo",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_tiburo.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna tudes",
+      "Title": "Species summary: Sphyrna tudes",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_tudes.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Sphyrna media",
+      "Title": "Species summary: Sphyrna media",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Sphyrna_media.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Carcharhinus obscurus",
+      "Title": "Species summary: Carcharhinus obscurus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Carcharhinus_obscurus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    },
+    {
+      "Key": "fishbase-Isurus oxyrinchus",
+      "Title": "Species summary: Isurus oxyrinchus",
+      "Author": "FishBase",
+      "Year": 2025,
+      "URL": "https://www.fishbase.se/summary/Isurus_oxyrinchus.html",
+      "DOI": "",
+      "Kind": "Ficha taxonômica",
+      "Description": "Fonte de consulta taxonômica para características, tamanho, dieta e distribuição. A categoria global de conservação é obtida separadamente na ficha Red List associada."
+    }
+  ],
+  "Species": [
+    {
+      "Key": "Galeocerdo cuvier",
+      "Common": "Tubarão-tigre",
+      "Scientific": "Galeocerdo cuvier",
+      "Image": "/images/hero-tiger-shark.jpg",
+      "Description": "Corpo robusto com faixas escuras, mais nítidas em jovens; predador costeiro e oceânico de dieta ampla. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo robusto com faixas escuras, mais nítidas em jovens; predador costeiro e oceânico de dieta ampla.",
+      "Size": "5,5 m; máximo documentado próximo de 7,4 m",
+      "Diet": "Peixes, tartarugas, aves e outros vertebrados.",
+      "Habitat": "Costas, plataforma e mar aberto tropical e temperado.",
+      "Distribution": "Circuntropical, em mares tropicais e temperados quentes; Atlântico ocidental inclui registros brasileiros.",
+      "BrazilPresence": "Atlântico ocidental, com registros no Brasil e em Recife.",
+      "NortheastPresence": "Atlântico ocidental, com registros no Brasil e em Recife.",
+      "Ecology": "Integra teias costeiras e oceânicas; a função varia com idade e habitat.",
+      "Threats": "Pesca dirigida e incidental, degradação costeira.",
+      "BrazilStatus": "Não listada como ameaçada na Portaria MMA 1.667/2026 consultada",
+      "IUCNStatus": "Near Threatened (NT)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Ginglymostoma cirratum",
+      "Common": "Tubarão-lixa",
+      "Scientific": "Ginglymostoma cirratum",
+      "Image": "/images/species/ginglymostoma-cirratum.jpg",
+      "Description": "Tubarão bentônico de movimentos lentos, barbilhões nasais e hábitos de repouso. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Tubarão bentônico de movimentos lentos, barbilhões nasais e hábitos de repouso.",
+      "Size": "Média próxima de 2,5 m; máximo cerca de 3,2 m",
+      "Diet": "Peixes, crustáceos, moluscos e outros invertebrados bentônicos.",
+      "Habitat": "Recifes, fundos rasos, cavernas e áreas costeiras.",
+      "Distribution": "Atlântico ocidental tropical e subtropical, da América do Norte ao sul do Brasil; registros no Nordeste.",
+      "BrazilPresence": "Atlântico ocidental tropical; presente no Nordeste e amostrado em Recife.",
+      "NortheastPresence": "Atlântico ocidental tropical; presente no Nordeste e amostrado em Recife.",
+      "Ecology": "Predador bentônico e parte das redes tróficas recifais.",
+      "Threats": "Captura, comércio, perturbação de recifes e perda de habitat.",
+      "BrazilStatus": "Vulnerável (VU)",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Sphyrna lewini",
+      "Common": "Tubarão-martelo-recortado",
+      "Scientific": "Sphyrna lewini",
+      "Image": "/images/species/sphyrna-lewini.jpg",
+      "Description": "Cabeça expandida lateralmente com entalhe central; juvenis usam águas costeiras. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Cabeça expandida lateralmente com entalhe central; juvenis usam águas costeiras.",
+      "Size": "Média adulta variável; máximo documentado cerca de 4,3 m",
+      "Diet": "Peixes, lulas e raias.",
+      "Habitat": "Costeiro e oceânico; áreas de agregação e berçários costeiros.",
+      "Distribution": "Distribuição circumglobal em águas tropicais e temperadas quentes; Atlântico ocidental e costa brasileira.",
+      "BrazilPresence": "Distribuição tropical ampla; espécie registrada na amostragem de Recife.",
+      "NortheastPresence": "Distribuição tropical ampla; espécie registrada na amostragem de Recife.",
+      "Ecology": "Predador móvel que conecta habitats costeiros e oceânicos.",
+      "Threats": "Sobrepesca, captura incidental e comércio de nadadeiras.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Negaprion brevirostris",
+      "Common": "Tubarão-limão",
+      "Scientific": "Negaprion brevirostris",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Corpo robusto, coloração amarelo-acastanhada e duas dorsais de tamanho semelhante. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo robusto, coloração amarelo-acastanhada e duas dorsais de tamanho semelhante.",
+      "Size": "2,4 m de comprimento comum; máximo cerca de 3,4 m",
+      "Diet": "Peixes ósseos, raias, crustáceos e moluscos.",
+      "Habitat": "Águas costeiras, manguezais e recifes tropicais.",
+      "Distribution": "Atlântico ocidental tropical e subtropical; costa brasileira com registros regionais.",
+      "BrazilPresence": "Atlântico ocidental, com ocorrência brasileira; registros nordestinos precisam ser contextualizados por localidade.",
+      "NortheastPresence": "Atlântico ocidental, com ocorrência brasileira; registros nordestinos precisam ser contextualizados por localidade.",
+      "Ecology": "Usa habitats costeiros em fases do ciclo de vida.",
+      "Threats": "Pesca e perda de habitats rasos.",
+      "BrazilStatus": "Em perigo (EN)",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2020,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Rhincodon typus",
+      "Common": "Tubarão-baleia",
+      "Scientific": "Rhincodon typus",
+      "Image": "/images/species/rhincodon-typus.jpg",
+      "Description": "Maior peixe conhecido, com manchas claras e alimentação por filtração. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Maior peixe conhecido, com manchas claras e alimentação por filtração.",
+      "Size": "Comprimento comum de vários metros; máximo confirmado acima de 18 m",
+      "Diet": "Plâncton, ovos e pequenos organismos.",
+      "Habitat": "Águas tropicais oceânicas e costeiras produtivas.",
+      "Distribution": "Distribuição circumtropical pelágica; registros esparsos e migratórios em águas brasileiras.",
+      "BrazilPresence": "Registros em águas brasileiras; ocorrência é migratória e não prova residência local.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Transfere nutrientes e conecta áreas de alimentação oceânicas.",
+      "Threats": "Colisões, captura incidental, poluição e perturbação.",
+      "BrazilStatus": "Vulnerável (VU)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2025,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Carcharhinus leucas",
+      "Common": "Tubarão-cabeça-chata",
+      "Scientific": "Carcharhinus leucas",
+      "Image": "/images/species/carcharhinus-leucas.jpg",
+      "Description": "Corpo robusto, focinho curto; tolera ampla variação de salinidade. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo robusto, focinho curto; tolera ampla variação de salinidade.",
+      "Size": "Média amostral em Recife 193,7 cm; máximo amostral 250 cm",
+      "Diet": "Peixes e outros vertebrados aquáticos.",
+      "Habitat": "Costeiro, estuarino e ocasionalmente fluvial.",
+      "Distribution": "Distribuição circumtropical costeira e estuarina; registros ao longo da costa brasileira.",
+      "BrazilPresence": "Brasil, incluindo litoral nordestino; registrado na amostragem de Recife.",
+      "NortheastPresence": "Brasil, incluindo litoral nordestino; registrado na amostragem de Recife.",
+      "Ecology": "Predador costeiro que utiliza sistemas estuarinos.",
+      "Threats": "Pesca e alteração de estuários; risco humano exige precauções oficiais.",
+      "BrazilStatus": "Vulnerável (VU)",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2020,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Carcharhinus perezi",
+      "Common": "Tubarão-de-recife-do-Caribe",
+      "Scientific": "Carcharhinus perezi",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Carcharhinídeo robusto associado a recifes tropicais do Atlântico ocidental. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Carcharhinídeo robusto associado a recifes tropicais do Atlântico ocidental.",
+      "Size": "Máximo por volta de 3 m; exemplar de Recife 107 cm",
+      "Diet": "Peixes ósseos e cefalópodes.",
+      "Habitat": "Taludes e recifes coralíneos.",
+      "Distribution": "Atlântico ocidental tropical, associado a recifes; registro no estudo de Recife.",
+      "BrazilPresence": "Ocorrência brasileira registrada no estudo de Recife; a distribuição local é pontual.",
+      "NortheastPresence": "Ocorrência brasileira registrada no estudo de Recife; a distribuição local é pontual.",
+      "Ecology": "Predador recifal, com papel dependente da comunidade e do contexto.",
+      "Threats": "Pesca, captura incidental e degradação de recifes.",
+      "BrazilStatus": "Vulnerável (VU)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Carcharhinus limbatus",
+      "Common": "Tubarão-galha-preta",
+      "Scientific": "Carcharhinus limbatus",
+      "Image": "/images/species/carcharhinus-limbatus.jpg",
+      "Description": "Corpo esguio, pontas escuras nas nadadeiras e hábito costeiro-pelágico. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo esguio, pontas escuras nas nadadeiras e hábito costeiro-pelágico.",
+      "Size": "Média Recife 125,7 cm; máximo amostral 209 cm",
+      "Diet": "Peixes ósseos e cefalópodes.",
+      "Habitat": "Costas e plataforma continental.",
+      "Distribution": "Distribuição circumglobal em águas tropicais e temperadas quentes; espécie registrada em Recife.",
+      "BrazilPresence": "Brasil; presente na amostragem costeira de Recife.",
+      "NortheastPresence": "Brasil; presente na amostragem costeira de Recife.",
+      "Ecology": "Predador de peixes em habitats costeiros.",
+      "Threats": "Captura incidental, pesca e perda de áreas costeiras.",
+      "BrazilStatus": "Não listada como ameaçada na Portaria MMA 1.667/2026 consultada",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2020,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Carcharhinus acronotus",
+      "Common": "Tubarão-focinho-negro",
+      "Scientific": "Carcharhinus acronotus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Carcharhinídeo costeiro reconhecido pela mancha escura na ponta do focinho. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Carcharhinídeo costeiro reconhecido pela mancha escura na ponta do focinho.",
+      "Size": "Média Recife 111,8 cm; máximo amostral 180 cm",
+      "Diet": "Peixes e pequenos invertebrados.",
+      "Habitat": "Plataforma costeira do Atlântico ocidental.",
+      "Distribution": "Atlântico ocidental tropical e subtropical; espécie registrada na amostragem de Recife.",
+      "BrazilPresence": "Registrado na série de amostragens de Recife, Pernambuco.",
+      "NortheastPresence": "Registrado na série de amostragens de Recife, Pernambuco.",
+      "Ecology": "Predador costeiro de peixes de pequeno e médio porte.",
+      "Threats": "Pesca costeira, captura incidental e degradação de habitat.",
+      "BrazilStatus": "Vulnerável (VU)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Carcharhinus falciformis",
+      "Common": "Tubarão-seda",
+      "Scientific": "Carcharhinus falciformis",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Corpo esguio, focinho longo e primeira nadadeira dorsal baixa; espécie oceânica. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo esguio, focinho longo e primeira nadadeira dorsal baixa; espécie oceânica.",
+      "Size": "Média Recife 104,5 cm; máximo amostral 126 cm",
+      "Diet": "Peixes e cefalópodes.",
+      "Habitat": "Águas tropicais oceânicas e bordas de plataforma.",
+      "Distribution": "Distribuição circumtropical oceânica; ocorrência no Atlântico brasileiro.",
+      "BrazilPresence": "Brasil; dois registros na amostragem de Recife, sem representar abundância regional.",
+      "NortheastPresence": "Brasil; dois registros na amostragem de Recife, sem representar abundância regional.",
+      "Ecology": "Predador pelágico de grande mobilidade.",
+      "Threats": "Pesca oceânica e captura incidental.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2017,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Rhizoprionodon lalandii",
+      "Common": "Tubarão-rabo-seco",
+      "Scientific": "Rhizoprionodon lalandii",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Pequeno tubarão costeiro de focinho alongado. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Pequeno tubarão costeiro de focinho alongado.",
+      "Size": "Exemplar de Recife com 51 cm; valores máximos variam por fonte",
+      "Diet": "Peixes pequenos e cefalópodes.",
+      "Habitat": "Plataforma costeira tropical do Atlântico ocidental.",
+      "Distribution": "Atlântico ocidental tropical, da América Central ao sul do Brasil; registro em Recife.",
+      "BrazilPresence": "Um exemplar registrado na amostragem de Recife.",
+      "NortheastPresence": "Um exemplar registrado na amostragem de Recife.",
+      "Ecology": "Predador de pequeno porte em redes costeiras.",
+      "Threats": "Captura incidental e pressão pesqueira costeira.",
+      "BrazilStatus": "Não consta na lista nacional de ameaçadas 2026 consultada",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Sphyrna mokarran",
+      "Common": "Tubarão-martelo-grande",
+      "Scientific": "Sphyrna mokarran",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Maior espécie de martelo; cabeça em forma de T e nadadeira dorsal alta. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Maior espécie de martelo; cabeça em forma de T e nadadeira dorsal alta.",
+      "Size": "Média adulta grande; exemplar de Recife 346 cm; máximo cerca de 6 m",
+      "Diet": "Raias, peixes e cefalópodes.",
+      "Habitat": "Costeiro e oceânico tropical.",
+      "Distribution": "Distribuição circumglobal em águas tropicais; registro na amostragem de Recife.",
+      "BrazilPresence": "Um indivíduo registrado no estudo de Recife; espécie tem ocorrência brasileira.",
+      "NortheastPresence": "Um indivíduo registrado no estudo de Recife; espécie tem ocorrência brasileira.",
+      "Ecology": "Predador de topo em parte das teias, sem generalização para todos tubarões.",
+      "Threats": "Sobrepesca e comércio internacional.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "Prionace glauca",
+      "Common": "Tubarão-azul",
+      "Scientific": "Prionace glauca",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Tubarão pelágico de corpo alongado e coloração azul intensa. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Tubarão pelágico de corpo alongado e coloração azul intensa.",
+      "Size": "Comprimento comum 1,8–2,8 m; máximo perto de 3,8 m",
+      "Diet": "Peixes e lulas.",
+      "Habitat": "Oceânico, em águas temperadas e tropicais.",
+      "Distribution": "Espécie pelágica oceânica de distribuição global, em águas temperadas e tropicais.",
+      "BrazilPresence": "Registrado em águas brasileiras oceânicas; sem atribuição específica a estados do Nordeste nesta ficha.",
+      "NortheastPresence": "Registrado em águas brasileiras oceânicas; sem atribuição específica a estados do Nordeste nesta ficha.",
+      "Ecology": "Predador pelágico de ampla mobilidade.",
+      "Threats": "Pesca oceânica e captura incidental; manejo comercial deve observar normas atuais.",
+      "BrazilStatus": "Não consta na lista nacional de ameaçadas 2026 consultada",
+      "IUCNStatus": "Near Threatened (NT)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "iucn2024"
+    },
+    {
+      "Key": "Carcharhinus longimanus",
+      "Common": "Tubarão-galha-branca-oceânico",
+      "Scientific": "Carcharhinus longimanus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Nadadeiras longas com manchas claras nas pontas; espécie oceânica. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Nadadeiras longas com manchas claras nas pontas; espécie oceânica.",
+      "Size": "Média em torno de 2 m; máximo cerca de 3,5 m",
+      "Diet": "Peixes e cefalópodes.",
+      "Habitat": "Mar aberto tropical e subtropical.",
+      "Distribution": "Distribuição circumtropical oceânica, incluindo o Atlântico Sul.",
+      "BrazilPresence": "Ocorre no Atlântico brasileiro oceânico.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador pelágico de grande escala.",
+      "Threats": "Pesca oceânica e captura incidental.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Carcharhinus plumbeus",
+      "Common": "Tubarão-azul-de-areia",
+      "Scientific": "Carcharhinus plumbeus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Corpo robusto, focinho curto e primeira dorsal alta. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Corpo robusto, focinho curto e primeira dorsal alta.",
+      "Size": "Média adulta cerca de 1,5–2 m; máximo perto de 2,4 m",
+      "Diet": "Peixes, crustáceos e cefalópodes.",
+      "Habitat": "Costeiro e plataforma continental.",
+      "Distribution": "Distribuição ampla em mares tropicais e temperados; registros brasileiros em águas costeiras e de plataforma.",
+      "BrazilPresence": "A lista brasileira registra a espécie; registros regionais devem ser consultados em fonte local.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador de plataforma e consumidor de organismos bentônicos e pelágicos.",
+      "Threats": "Pesca e captura incidental.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2020,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Carcharhinus porosus",
+      "Common": "Tubarão-toninha",
+      "Scientific": "Carcharhinus porosus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Pequeno carcharhinídeo costeiro, associado a águas rasas. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Pequeno carcharhinídeo costeiro, associado a águas rasas.",
+      "Size": "Média próxima de 1 m; máximo cerca de 1,5 m",
+      "Diet": "Peixes e crustáceos.",
+      "Habitat": "Plataforma continental tropical do Atlântico ocidental.",
+      "Distribution": "Atlântico ocidental tropical, em plataforma costeira; registros históricos brasileiros.",
+      "BrazilPresence": "Espécie da fauna brasileira; registros históricos no litoral norte/nordeste.",
+      "NortheastPresence": "Espécie da fauna brasileira; registros históricos no litoral norte/nordeste.",
+      "Ecology": "Mesopredador costeiro.",
+      "Threats": "Pesca costeira e captura incidental.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Carcharhinus signatus",
+      "Common": "Tubarão-dos-bancos",
+      "Scientific": "Carcharhinus signatus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Espécie de águas profundas e talude, conhecida como night shark. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Espécie de águas profundas e talude, conhecida como night shark.",
+      "Size": "Comprimento adulto frequentemente próximo de 2 m",
+      "Diet": "Peixes e lulas.",
+      "Habitat": "Talude continental e mar aberto.",
+      "Distribution": "Atlântico ocidental em talude e águas profundas; ocorrência brasileira documentada.",
+      "BrazilPresence": "Incluído na lista nacional brasileira; dados regionais são limitados.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador de águas profundas.",
+      "Threats": "Pesca de espinhel e arrasto em profundidade.",
+      "BrazilStatus": "Em perigo (EN)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Sphyrna zygaena",
+      "Common": "Tubarão-martelo-liso",
+      "Scientific": "Sphyrna zygaena",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Cabeça expandida sem entalhe central profundo e ampla distribuição. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Cabeça expandida sem entalhe central profundo e ampla distribuição.",
+      "Size": "Média adulta cerca de 2,5 m; máximo próximo de 4 m",
+      "Diet": "Peixes, lulas e raias.",
+      "Habitat": "Costeiro e oceânico, inclusive águas temperadas.",
+      "Distribution": "Distribuição circumglobal em águas temperadas e tropicais; ocorrência no Atlântico Sul ocidental.",
+      "BrazilPresence": "Presente no Atlântico sul ocidental; fonte nacional lista a espécie.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador de médio/grande porte em ecossistemas pelágicos.",
+      "Threats": "Captura incidental e pesca dirigida.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Vulnerable (VU)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Sphyrna tiburo",
+      "Common": "Tubarão-martelo-panã",
+      "Scientific": "Sphyrna tiburo",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Espécie costeira de pequeno porte, com cabeça arredondada em forma de pá. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Espécie costeira de pequeno porte, com cabeça arredondada em forma de pá.",
+      "Size": "Média 0,8–1 m; máximo em torno de 1,5 m",
+      "Diet": "Crustáceos, moluscos e peixes.",
+      "Habitat": "Estuários, baías e águas costeiras rasas.",
+      "Distribution": "Atlântico ocidental tropical e subtropical, em baías, estuários e plataforma rasa.",
+      "BrazilPresence": "Ocorrência brasileira documentada em águas tropicais; estado pode variar por fonte.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Mesopredador costeiro com dieta que inclui crustáceos.",
+      "Threats": "Pesca costeira e perda de habitats rasos.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Sphyrna tudes",
+      "Common": "Tubarão-martelo-de-olho-grande",
+      "Scientific": "Sphyrna tudes",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Martelo pequeno, olhos grandes e coloração amarelada em jovens. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Martelo pequeno, olhos grandes e coloração amarelada em jovens.",
+      "Size": "Geralmente menor que 1,5 m; máximo perto de 1,5 m",
+      "Diet": "Peixes ósseos e crustáceos.",
+      "Habitat": "Plataforma costeira do Atlântico ocidental.",
+      "Distribution": "Atlântico ocidental tropical, especialmente plataforma costeira da América do Sul.",
+      "BrazilPresence": "Registrado no Brasil; distribuição costeira regional desigual.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador de plataforma continental.",
+      "Threats": "Captura em pesca costeira e perda de habitat.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Sphyrna media",
+      "Common": "Tubarão-martelo-liso-do-Atlântico",
+      "Scientific": "Sphyrna media",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Tubarão-martelo pequeno, de águas tropicais costeiras. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Tubarão-martelo pequeno, de águas tropicais costeiras.",
+      "Size": "Comprimento adulto ao redor de 1 m",
+      "Diet": "Peixes e invertebrados.",
+      "Habitat": "Plataforma continental rasa.",
+      "Distribution": "Atlântico ocidental tropical, em águas costeiras rasas.",
+      "BrazilPresence": "Espécie incluída na lista brasileira; observações locais devem ser confirmadas.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador costeiro de pequeno porte.",
+      "Threats": "Pesca e captura incidental.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Critically Endangered (CR)",
+      "NationalYear": 2026,
+      "IUCNYear": 2019,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Carcharhinus obscurus",
+      "Common": "Tubarão-cabeça-chata-de-olhos-grandes",
+      "Scientific": "Carcharhinus obscurus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Tubarão grande, migratório e de crescimento lento. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Tubarão grande, migratório e de crescimento lento.",
+      "Size": "Adultos frequentemente acima de 3 m; máximo cerca de 4 m",
+      "Diet": "Peixes ósseos, raias e cefalópodes.",
+      "Habitat": "Costeiro e oceânico em águas temperadas e tropicais.",
+      "Distribution": "Distribuição ampla em águas tropicais e temperadas; espécie migratória presente no Atlântico Sul.",
+      "BrazilPresence": "Incluído na lista nacional para águas brasileiras; ocorrência regional varia.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador de grande porte em teias costeiras e oceânicas.",
+      "Threats": "Pesca dirigida e incidental; maturação tardia aumenta vulnerabilidade.",
+      "BrazilStatus": "Em perigo (EN)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "mma"
+    },
+    {
+      "Key": "Isurus oxyrinchus",
+      "Common": "Tubarão-mako-de-nadadeiras-curtas",
+      "Scientific": "Isurus oxyrinchus",
+      "Image": "/images/shark-silhouette.svg",
+      "Description": "Lamniforme veloz com corpo fusiforme, focinho pontudo e dentes longos. As dimensões e a ecologia variam com sexo, idade e população; valores são referências aproximadas e não estimativas locais.",
+      "Physical": "Lamniforme veloz com corpo fusiforme, focinho pontudo e dentes longos.",
+      "Size": "Média adulta próxima de 2 m; máximo registrado acima de 4 m",
+      "Diet": "Peixes pelágicos e cefalópodes.",
+      "Habitat": "Oceânico, tropical a temperado.",
+      "Distribution": "Distribuição pelágica circumglobal em mares tropicais e temperados.",
+      "BrazilPresence": "Águas oceânicas brasileiras; listado nacionalmente.",
+      "NortheastPresence": "Ocorrência no Nordeste não detalhada nesta ficha; não inferir presença estadual sem registro local.",
+      "Ecology": "Predador pelágico de grande mobilidade.",
+      "Threats": "Pesca oceânica, captura incidental e comércio.",
+      "BrazilStatus": "Criticamente em perigo (CR)",
+      "IUCNStatus": "Endangered (EN)",
+      "NationalYear": 2026,
+      "IUCNYear": 2018,
+      "SourceKey": "mma"
+    }
+  ],
+  "Indicators": [
+    {
+      "Key": "br-elasm-threat",
+      "Title": "Espécies brasileiras ameaçadas no PAN",
+      "Value": 39,
+      "Unit": "% das espécies",
+      "Year": 2025,
+      "Scope": "Brasil",
+      "Group": "Tubarões e raias (Elasmobranchii)",
+      "Description": "Percentual informado pelo ICMBio para o conjunto de elasmobrânquios; não exclusivo de tubarões.",
+      "SourceKey": "pan"
+    },
+    {
+      "Key": "global-threat",
+      "Title": "Espécies de condrictes ameaçadas",
+      "Value": 32,
+      "Unit": "% das espécies avaliadas",
+      "Year": 2021,
+      "Scope": "Mundo",
+      "Group": "Tubarões, raias e quimeras",
+      "Description": "Proporção observada de espécies ameaçadas na avaliação global; grupo inclui raias e quimeras.",
+      "SourceKey": "iucn2021"
+    },
+    {
+      "Key": "oceanic-decline",
+      "Title": "Declínio de abundância em espécies oceânicas",
+      "Value": 71,
+      "Unit": "% de declínio",
+      "Year": 2018,
+      "Scope": "Mundo",
+      "Group": "Tubarões e raias oceânicos",
+      "Description": "Estimativa de declínio da abundância de 18 espécies oceânicas entre 1970 e 2018; não extrapolar a todos os tubarões.",
+      "SourceKey": "nature2021"
+    },
+    {
+      "Key": "mortality-low",
+      "Title": "Mortalidade pesqueira anual estimada (limite inferior)",
+      "Value": 76,
+      "Unit": "milhões de tubarões/ano",
+      "Year": 2012,
+      "Scope": "Mundo",
+      "Group": "Tubarões",
+      "Description": "Estimativa global do estudo para o limite inferior em 2012; sujeito a incerteza e metodologia.",
+      "SourceKey": "science2024"
+    },
+    {
+      "Key": "mortality-high",
+      "Title": "Mortalidade pesqueira anual estimada (limite superior)",
+      "Value": 80,
+      "Unit": "milhões de tubarões/ano",
+      "Year": 2019,
+      "Scope": "Mundo",
+      "Group": "Tubarões",
+      "Description": "Estimativa global do estudo para o limite superior em 2019; não é contagem direta.",
+      "SourceKey": "science2024"
+    },
+    {
+      "Key": "ocean-protected",
+      "Title": "Área oceânica em áreas marinhas protegidas",
+      "Value": 8.4,
+      "Unit": "% da área oceânica",
+      "Year": 2024,
+      "Scope": "Mundo",
+      "Group": "Ecossistemas marinhos",
+      "Description": "Cobertura de áreas marinhas protegidas; indicador de conservação do oceano, não medida de proteção de tubarões.",
+      "SourceKey": "sdg2025"
+    },
+    {
+      "Key": "marine-kba",
+      "Title": "Áreas-chave de biodiversidade marinha protegidas",
+      "Value": 46,
+      "Unit": "% das áreas-chave",
+      "Year": 2024,
+      "Scope": "Mundo",
+      "Group": "Biodiversidade marinha",
+      "Description": "Proporção global de marine KBAs com alguma proteção.",
+      "SourceKey": "sdg2025"
+    },
+    {
+      "Key": "fishery-sustainable",
+      "Title": "Desembarques provenientes de estoques sustentáveis",
+      "Value": 72.6,
+      "Unit": "% dos desembarques",
+      "Year": 2023,
+      "Scope": "Mundo",
+      "Group": "Estoques pesqueiros marinhos em geral",
+      "Description": "Indicador agregado da FAO para pescarias avaliadas; não específico de tubarões.",
+      "SourceKey": "fao2026"
+    },
+    {
+      "Key": "recife-richness",
+      "Title": "Espécies registradas em amostragem de tubarões de Recife",
+      "Value": 10,
+      "Unit": "espécies",
+      "Year": 2014,
+      "Scope": "Recife, Pernambuco",
+      "Group": "Tubarões",
+      "Description": "Dez espécies em assembleia amostrada de 2004–2011; resultado local do desenho amostral.",
+      "SourceKey": "recife"
+    },
+    {
+      "Key": "ceara-samples",
+      "Title": "Indivíduos amostrados em estudo do tubarão-lixa no Ceará",
+      "Value": 449,
+      "Unit": "indivíduos amostrados",
+      "Year": 2025,
+      "Scope": "Ceará",
+      "Group": "Tubarão-lixa (Ginglymostoma cirratum)",
+      "Description": "Total amostral reportado no trabalho acadêmico; não corresponde à população estadual.",
+      "SourceKey": "ufc2025"
+    },
+    {
+      "Key": "coastal-fishing",
+      "Title": "Avaliações nacionais e planos de ação",
+      "Value": 65,
+      "Unit": "espécies foco",
+      "Year": 2025,
+      "Scope": "Brasil",
+      "Group": "Tubarões e raias",
+      "Description": "Segundo ciclo do PAN estabelece estratégias para espécies de elasmobrânquios; valor não é contagem de tubarões exclusivamente.",
+      "SourceKey": "pan"
+    },
+    {
+      "Key": "sdg14-target",
+      "Title": "Meta da Agenda 2030 para conservação marinha",
+      "Value": 14.4,
+      "Unit": "ODS",
+      "Year": 2030,
+      "Scope": "Mundo",
+      "Group": "Ecossistemas marinhos",
+      "Description": "Meta 14.4 trata de regulação da pesca e fim da sobrepesca e pesca ilegal.",
+      "SourceKey": "ods"
+    }
+  ],
+  "Institutions": [
+    {
+      "Key": "UFRPE",
+      "Name": "Universidade Federal Rural de Pernambuco",
+      "Description": "Universidade pública com pesquisa e formação em ciências biológicas e do mar; vinculada historicamente ao PROTUBA.",
+      "State": "PE",
+      "City": "Recife",
+      "Focus": "Pesquisa marinha, formação e histórico de estudos de tubarões",
+      "Website": "https://www.ufrpe.br/"
+    },
+    {
+      "Key": "ECOTUBA",
+      "Name": "Projeto ECOTUBA",
+      "Description": "Ação de educação ambiental e monitoramento de tubarões reportada pela Administração de Fernando de Noronha; não implica parceria com o Maré Viva.",
+      "State": "PE",
+      "City": "Fernando de Noronha",
+      "Focus": "Educação ambiental e monitoramento de tubarões",
+      "Website": "https://www.noronha.pe.gov.br/em-noronha-projeto-ecotuba-desenvolve-acoes-educativas-e-monitoramento-de-tubaroes/"
+    },
+    {
+      "Key": "PROTUBA",
+      "Name": "Projeto de Pesquisa e Monitoramento de Tubarões no Estado de Pernambuco (PROTUBA)",
+      "Description": "Projeto histórico da UFRPE desenvolvido entre 2004 e 2014 na costa da Região Metropolitana do Recife, conforme fonte institucional local.",
+      "State": "PE",
+      "City": "Recife",
+      "Focus": "Pesquisa e monitoramento de tubarões",
+      "Website": "https://www.ufrpe.br/"
+    },
+    {
+      "Key": "CEPENE",
+      "Name": "Centro Nacional de Pesquisa e Conservação da Biodiversidade Marinha do Nordeste (CEPENE/ICMBio)",
+      "Description": "Centro de pesquisa e conservação marinha do ICMBio com atuação no Nordeste.",
+      "State": "PE",
+      "City": "Tamandaré",
+      "Focus": "Biodiversidade marinha e conservação",
+      "Website": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/cepene"
+    },
+    {
+      "Key": "ICMBio",
+      "Name": "Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio)",
+      "Description": "Autarquia federal responsável por unidades de conservação e ações de conservação; coordena planos de ação para tubarões e raias.",
+      "State": "DF",
+      "City": "Brasília",
+      "Focus": "Conservação da biodiversidade e PAN Tubarões",
+      "Website": "https://www.gov.br/icmbio/"
+    },
+    {
+      "Key": "UFPB",
+      "Name": "Universidade Federal da Paraíba (UFPB)",
+      "Description": "Universidade pública com trabalhos acadêmicos sobre elasmobrânquios e tubarão-lixa na costa paraibana.",
+      "State": "PB",
+      "City": "João Pessoa",
+      "Focus": "Pesquisa costeira e elasmobrânquios",
+      "Website": "https://www.ufpb.br/"
+    },
+    {
+      "Key": "UFC",
+      "Name": "Universidade Federal do Ceará — LABOMAR",
+      "Description": "Universidade pública e Instituto de Ciências do Mar (LABOMAR); repositório institucional reúne estudos de elasmobrânquios do Ceará.",
+      "State": "CE",
+      "City": "Fortaleza",
+      "Focus": "Ciências do mar e pesquisa pesqueira",
+      "Website": "https://labomar.ufc.br/"
+    },
+    {
+      "Key": "UFRN",
+      "Name": "Universidade Federal do Rio Grande do Norte",
+      "Description": "Universidade pública com produção acadêmica em ecologia marinha e inventários de elasmobrânquios no RN.",
+      "State": "RN",
+      "City": "Natal",
+      "Focus": "Pesquisa marinha e biodiversidade costeira",
+      "Website": "https://www.ufrn.br/"
+    },
+    {
+      "Key": "PROSHARK",
+      "Name": "Instituto PROSHARK",
+      "Description": "Organização brasileira dedicada à pesquisa e conservação de tubarões e raias; confirmar projetos e atuação vigente no website oficial.",
+      "State": "SP",
+      "City": "São Paulo",
+      "Focus": "Pesquisa e conservação de tubarões e raias",
+      "Website": "https://www.proshark.org.br/"
+    },
+    {
+      "Key": "UFBA",
+      "Name": "Universidade Federal da Bahia",
+      "Description": "Universidade pública baiana com pesquisa em biodiversidade e ambientes marinhos; cadastro institucional não afirma projeto específico de tubarões.",
+      "State": "BA",
+      "City": "Salvador",
+      "Focus": "Pesquisa universitária em biodiversidade marinha",
+      "Website": "https://www.ufba.br/"
+    },
+    {
+      "Key": "ICMBio-TAMAR",
+      "Name": "Centro Nacional de Pesquisa e Conservação de Tartarugas Marinhas (TAMAR/ICMBio)",
+      "Description": "Centro do ICMBio voltado a tartarugas marinhas e habitats; incluído como ator de conservação costeira, não como projeto de tubarões.",
+      "State": "BA",
+      "City": "Praia do Forte",
+      "Focus": "Conservação de tartarugas e ecossistemas costeiros",
+      "Website": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/tamar"
+    },
+    {
+      "Key": "Noronha",
+      "Name": "Administração de Fernando de Noronha",
+      "Description": "Órgão distrital que publicou informações oficiais sobre o ECOTUBA e acordos de monitoramento.",
+      "State": "PE",
+      "City": "Fernando de Noronha",
+      "Focus": "Gestão territorial e conservação marinha",
+      "Website": "https://www.noronha.pe.gov.br/"
+    }
+  ],
+  "Questions": [
+    {
+      "Key": "bio1",
+      "Prompt": "Todos os tubarões são predadores de topo?",
+      "Options": [
+        "Sim, todos ocupam o topo",
+        "Não; há grande diversidade de tamanho, dieta e posição trófica"
+      ],
+      "Correct": 1,
+      "Explanation": "Espécies como tubarões filtradores e pequenos tubarões costeiros têm ecologias distintas.",
+      "SourceURL": "https://iucnssg.org/resources/publications/2024-global-status-report/"
+    },
+    {
+      "Key": "bio2",
+      "Prompt": "Como o tubarão-baleia obtém alimento?",
+      "Options": [
+        "Filtra plâncton e pequenos organismos",
+        "Caça grandes mamíferos"
+      ],
+      "Correct": 0,
+      "Explanation": "Rhincodon typus é um tubarão filtrador.",
+      "SourceURL": "https://www.iucnredlist.org/species/19488/2365291"
+    },
+    {
+      "Key": "bio3",
+      "Prompt": "Qual característica sensorial ajuda tubarões a detectar campos elétricos?",
+      "Options": [
+        "Ampolas de Lorenzini",
+        "Brânquias externas"
+      ],
+      "Correct": 0,
+      "Explanation": "As ampolas de Lorenzini são órgãos sensoriais eletroreceptores.",
+      "SourceURL": "https://ocean.si.edu/ocean-life/sharks-rays/shark-senses"
+    },
+    {
+      "Key": "bio4",
+      "Prompt": "Tubarões precisam nadar continuamente para respirar?",
+      "Options": [
+        "Sim, todos",
+        "Não; estratégias respiratórias variam entre espécies"
+      ],
+      "Correct": 1,
+      "Explanation": "Ventilação depende da espécie; alguns tubarões bombeiam água enquanto repousam.",
+      "SourceURL": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/"
+    },
+    {
+      "Key": "bio5",
+      "Prompt": "O que caracteriza um tubarão-lixa?",
+      "Options": [
+        "Barbilhões próximos às narinas e hábito bentônico",
+        "É um mamífero marinho"
+      ],
+      "Correct": 0,
+      "Explanation": "Ginglymostoma cirratum é um peixe cartilaginoso bentônico.",
+      "SourceURL": "https://www.fishbase.se/summary/Ginglymostoma-cirratum.html"
+    },
+    {
+      "Key": "ecol1",
+      "Prompt": "O que é uma cascata trófica?",
+      "Options": [
+        "Efeito indireto de mudanças em níveis da teia alimentar",
+        "Um tipo de maré"
+      ],
+      "Correct": 0,
+      "Explanation": "Alterações em um nível trófico podem repercutir em outros, dependendo da teia local.",
+      "SourceURL": "https://doi.org/10.1038/nature04151"
+    },
+    {
+      "Key": "ecol2",
+      "Prompt": "Todos os tubarões regulam populações de presas da mesma forma?",
+      "Options": [
+        "Sim, função igual em qualquer ecossistema",
+        "Não; efeitos variam com espécie, dieta e contexto"
+      ],
+      "Correct": 1,
+      "Explanation": "A função ecológica depende de espécie, ambiente e interações.",
+      "SourceURL": "https://iucnssg.org/resources/publications/2024-global-status-report/"
+    },
+    {
+      "Key": "ecol3",
+      "Prompt": "Recifes e manguezais podem ser importantes para tubarões?",
+      "Options": [
+        "Sim, algumas espécies usam esses habitats",
+        "Não, tubarões vivem apenas em mar aberto"
+      ],
+      "Correct": 0,
+      "Explanation": "Áreas costeiras podem servir de abrigo, alimentação ou berçário para algumas espécies.",
+      "SourceURL": "https://doi.org/10.1371/journal.pone.0102369"
+    },
+    {
+      "Key": "cons1",
+      "Prompt": "Qual ameaça é amplamente reconhecida para tubarões?",
+      "Options": [
+        "Sobrepesca e captura incidental",
+        "Ausência de predadores naturais"
+      ],
+      "Correct": 0,
+      "Explanation": "Pesca dirigida e captura incidental estão entre as pressões documentadas.",
+      "SourceURL": "https://doi.org/10.1126/science.adf8984"
+    },
+    {
+      "Key": "cons2",
+      "Prompt": "A categoria da IUCN é equivalente à lista nacional brasileira?",
+      "Options": [
+        "Sim",
+        "Não; são avaliações com escopos diferentes"
+      ],
+      "Correct": 1,
+      "Explanation": "IUCN avalia risco global; listas oficiais nacionais avaliam risco dentro do país.",
+      "SourceURL": "https://www.iucnredlist.org/"
+    },
+    {
+      "Key": "cons3",
+      "Prompt": "Uma espécie em categoria global menos ameaçada está automaticamente segura no Brasil?",
+      "Options": [
+        "Sim",
+        "Não; populações regionais podem enfrentar riscos diferentes"
+      ],
+      "Correct": 1,
+      "Explanation": "Escopo geográfico e método da avaliação precisam ser considerados.",
+      "SourceURL": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/fauna-brasileira/portarias-fauna-ameacada"
+    },
+    {
+      "Key": "cons4",
+      "Prompt": "Qual grupo é abrangido pelo PAN Tubarões?",
+      "Options": [
+        "Somente tubarões",
+        "Tubarões e raias (elasmobrânquios)"
+      ],
+      "Correct": 1,
+      "Explanation": "O PAN citado inclui espécies de tubarões e raias; percentuais do plano não são exclusivos de tubarões.",
+      "SourceURL": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/biodiversidade-marinha-do-sudeste-e-sul/o-que-fazemos/pan-tubaroes"
+    },
+    {
+      "Key": "myth1",
+      "Prompt": "Tubarões são naturalmente atraídos por humanos como alimento?",
+      "Options": [
+        "Não há base para afirmar que humanos sejam sua presa natural habitual",
+        "Sim, humanos são sua principal presa"
+      ],
+      "Correct": 0,
+      "Explanation": "Encontros e incidentes podem ocorrer; não se deve minimizar riscos nem tratar humanos como presa habitual.",
+      "SourceURL": "https://www.floridamuseum.ufl.edu/shark-attacks/"
+    },
+    {
+      "Key": "myth2",
+      "Prompt": "Existem tubarões pequenos e espécies filtradoras?",
+      "Options": [
+        "Sim",
+        "Não, todos são grandes caçadores"
+      ],
+      "Correct": 0,
+      "Explanation": "A diversidade de tubarões inclui diferentes tamanhos e modos de alimentação.",
+      "SourceURL": "https://iucnssg.org/resources/publications/2024-global-status-report/"
+    },
+    {
+      "Key": "research1",
+      "Prompt": "O que telemetria acústica pode ajudar a estudar?",
+      "Options": [
+        "Movimentos de animais marcados próximos a receptores",
+        "A idade exata sem marcação"
+      ],
+      "Correct": 0,
+      "Explanation": "Receptores detectam sinais de transmissores acústicos dentro de seu alcance.",
+      "SourceURL": "https://www.internationalmarinelifealliance.org/acoustic-telemetry"
+    },
+    {
+      "Key": "research2",
+      "Prompt": "Uma captura de pesquisa local representa toda a população regional?",
+      "Options": [
+        "Sim",
+        "Não; amostragem tem limites de local, período e método"
+      ],
+      "Correct": 1,
+      "Explanation": "Resultados amostrais não equivalem automaticamente à abundância populacional.",
+      "SourceURL": "https://doi.org/10.1371/journal.pone.0102369"
+    },
+    {
+      "Key": "research3",
+      "Prompt": "O estudo de Recife registrou quantas espécies na assembleia amostrada?",
+      "Options": [
+        "10 espécies de tubarões",
+        "100 espécies"
+      ],
+      "Correct": 0,
+      "Explanation": "O artigo descreve dez espécies na amostragem padronizada entre 2004 e 2011.",
+      "SourceURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102369"
+    },
+    {
+      "Key": "research4",
+      "Prompt": "O que um registro de ciência cidadã publicado significa?",
+      "Options": [
+        "Relato aprovado para publicação, ainda não validação científica",
+        "Confirmação automática de espécie"
+      ],
+      "Correct": 0,
+      "Explanation": "Moderação editorial não substitui validação científica por especialistas.",
+      "SourceURL": "https://www.gov.br/icmbio/"
+    },
+    {
+      "Key": "safe1",
+      "Prompt": "O que fazer ao encontrar um tubarão na água?",
+      "Options": [
+        "Perseguir para fotografar",
+        "Manter distância e seguir sinalizações e orientações oficiais"
+      ],
+      "Correct": 1,
+      "Explanation": "Não persiga, toque, alimente ou se aproxime; siga as recomendações oficiais locais.",
+      "SourceURL": "https://www.gov.br/"
+    },
+    {
+      "Key": "safe2",
+      "Prompt": "Relatos com animal em risco devem incluir coordenadas precisas públicas?",
+      "Options": [
+        "Sim, sempre",
+        "Não; evite divulgar localização precisa de espécies ameaçadas"
+      ],
+      "Correct": 1,
+      "Explanation": "Localizações sensíveis podem aumentar perturbação e risco de captura.",
+      "SourceURL": "https://www.gov.br/icmbio/"
+    },
+    {
+      "Key": "safe3",
+      "Prompt": "O que fazer com animal marinho encalhado ou morto?",
+      "Options": [
+        "Tocar e remover",
+        "Manter distância e contatar autoridades ambientais locais"
+      ],
+      "Correct": 1,
+      "Explanation": "A plataforma acadêmica não encaminha automaticamente relatos às autoridades.",
+      "SourceURL": "https://www.gov.br/icmbio/"
+    },
+    {
+      "Key": "ods1",
+      "Prompt": "Qual é o tema central do ODS 14?",
+      "Options": [
+        "Vida na Água",
+        "Energia Limpa"
+      ],
+      "Correct": 0,
+      "Explanation": "O ODS 14 trata da conservação e uso sustentável dos oceanos, mares e recursos marinhos.",
+      "SourceURL": "https://sdgs.un.org/goals/goal14"
+    },
+    {
+      "Key": "ods2",
+      "Prompt": "Qual meta do ODS 14 trata de regular a pesca e combater sobrepesca?",
+      "Options": [
+        "14.4",
+        "4.7"
+      ],
+      "Correct": 0,
+      "Explanation": "A meta 14.4 aborda regulação da coleta e fim da sobrepesca e pesca ilegal.",
+      "SourceURL": "https://sdgs.un.org/goals/goal14"
+    },
+    {
+      "Key": "bio6",
+      "Prompt": "Tubarões possuem esqueleto ósseo?",
+      "Options": [
+        "Sim",
+        "Não; o esqueleto é principalmente cartilaginoso"
+      ],
+      "Correct": 1,
+      "Explanation": "Tubarões pertencem aos peixes cartilaginosos.",
+      "SourceURL": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/"
+    },
+    {
+      "Key": "br1",
+      "Prompt": "Qual tubarão é frequentemente registrado em recifes brasileiros e tem barbilhões nasais?",
+      "Options": [
+        "Tubarão-lixa",
+        "Tubarão-azul"
+      ],
+      "Correct": 0,
+      "Explanation": "O tubarão-lixa é espécie costeira bentônica e foi registrado na pesquisa de Recife.",
+      "SourceURL": "https://doi.org/10.1371/journal.pone.0102369"
+    },
+    {
+      "Key": "br2",
+      "Prompt": "A avaliação de 39% citada pelo ICMBio refere-se a quê?",
+      "Options": [
+        "Apenas tubarões brasileiros",
+        "Elasmobrânquios brasileiros, incluindo tubarões e raias"
+      ],
+      "Correct": 1,
+      "Explanation": "O escopo é elasmobrânquios; não atribuir esse percentual somente aos tubarões.",
+      "SourceURL": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/biodiversidade-marinha-do-sudeste-e-sul/o-que-fazemos/pan-tubaroes"
+    },
+    {
+      "Key": "br3",
+      "Prompt": "O que o estudo de tubarões de Recife permite afirmar?",
+      "Options": [
+        "Dez espécies foram observadas naquela amostragem",
+        "A população de todo o Nordeste tem exatamente dez espécies"
+      ],
+      "Correct": 0,
+      "Explanation": "É resultado local, com método e período definidos.",
+      "SourceURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102369"
+    },
+    {
+      "Key": "cons5",
+      "Prompt": "Por que evitar comprar produtos de origem desconhecida?",
+      "Options": [
+        "Pode estimular comércio de espécies ameaçadas e dificultar rastreabilidade",
+        "Porque todo produto marinho é ilegal"
+      ],
+      "Correct": 0,
+      "Explanation": "A rastreabilidade e a aplicação da legislação são relevantes para conservação.",
+      "SourceURL": "https://www.iucnredlist.org/"
+    },
+    {
+      "Key": "ecol4",
+      "Prompt": "Tubarões podem ocupar posições intermediárias na teia alimentar?",
+      "Options": [
+        "Sim",
+        "Não, todos são predadores de topo"
+      ],
+      "Correct": 0,
+      "Explanation": "A posição trófica varia entre espécies e ao longo da vida.",
+      "SourceURL": "https://iucnssg.org/resources/publications/2024-global-status-report/"
+    },
+    {
+      "Key": "research5",
+      "Prompt": "Drones podem apoiar pesquisa costeira quando usados com protocolo?",
+      "Options": [
+        "Sim, para observação e monitoramento sem aproximação direta",
+        "Não, substituem toda pesquisa de campo"
+      ],
+      "Correct": 0,
+      "Explanation": "Drones podem apoiar observação; precisam de protocolo, autorização e avaliação de perturbação.",
+      "SourceURL": "https://doi.org/10.1111/1365-2664.13253"
+    }
+  ]
+}

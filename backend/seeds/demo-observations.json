@@ -1,0 +1,362 @@
+[
+  {
+    "key": "mare-viva-demo-01",
+    "state": "PE",
+    "municipality": "Recife",
+    "date": "2026-01-01",
+    "category": "AVISTAMENTO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 01; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-02",
+    "state": "PB",
+    "municipality": "João Pessoa",
+    "date": "2026-02-04",
+    "category": "ANIMAL_MORTO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 02; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-03",
+    "state": "RN",
+    "municipality": "Natal",
+    "date": "2026-03-07",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 03; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-04",
+    "state": "CE",
+    "municipality": "Fortaleza",
+    "date": "2026-04-10",
+    "category": "POLUICAO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 04; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-05",
+    "state": "BA",
+    "municipality": "Salvador",
+    "date": "2026-05-13",
+    "category": "DEGRADACAO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 05; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-06",
+    "state": "AL",
+    "municipality": "Maceió",
+    "date": "2026-06-16",
+    "category": "AVISTAMENTO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 06; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-07",
+    "state": "SE",
+    "municipality": "Aracaju",
+    "date": "2026-07-19",
+    "category": "ANIMAL_MORTO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 07; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-08",
+    "state": "MA",
+    "municipality": "São Luís",
+    "date": "2026-08-22",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 08; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-09",
+    "state": "PI",
+    "municipality": "Parnaíba",
+    "date": "2026-09-25",
+    "category": "POLUICAO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 09; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-10",
+    "state": "PE",
+    "municipality": "Recife",
+    "date": "2026-10-01",
+    "category": "DEGRADACAO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 10; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-11",
+    "state": "PB",
+    "municipality": "João Pessoa",
+    "date": "2026-01-04",
+    "category": "AVISTAMENTO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 11; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-12",
+    "state": "RN",
+    "municipality": "Natal",
+    "date": "2026-02-07",
+    "category": "ANIMAL_MORTO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 12; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-13",
+    "state": "CE",
+    "municipality": "Fortaleza",
+    "date": "2026-03-10",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 13; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-14",
+    "state": "BA",
+    "municipality": "Salvador",
+    "date": "2026-04-13",
+    "category": "POLUICAO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 14; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-15",
+    "state": "AL",
+    "municipality": "Maceió",
+    "date": "2026-05-16",
+    "category": "DEGRADACAO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 15; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-16",
+    "state": "SE",
+    "municipality": "Aracaju",
+    "date": "2026-06-19",
+    "category": "AVISTAMENTO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 16; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-17",
+    "state": "MA",
+    "municipality": "São Luís",
+    "date": "2026-07-22",
+    "category": "ANIMAL_MORTO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 17; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-18",
+    "state": "PI",
+    "municipality": "Parnaíba",
+    "date": "2026-08-25",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 18; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-19",
+    "state": "PE",
+    "municipality": "Recife",
+    "date": "2026-09-01",
+    "category": "POLUICAO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 19; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-20",
+    "state": "PB",
+    "municipality": "João Pessoa",
+    "date": "2026-10-04",
+    "category": "DEGRADACAO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 20; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-21",
+    "state": "RN",
+    "municipality": "Natal",
+    "date": "2026-01-07",
+    "category": "AVISTAMENTO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 21; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-22",
+    "state": "CE",
+    "municipality": "Fortaleza",
+    "date": "2026-02-10",
+    "category": "ANIMAL_MORTO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 22; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-23",
+    "state": "BA",
+    "municipality": "Salvador",
+    "date": "2026-03-13",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 23; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-24",
+    "state": "AL",
+    "municipality": "Maceió",
+    "date": "2026-04-16",
+    "category": "POLUICAO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 24; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-25",
+    "state": "SE",
+    "municipality": "Aracaju",
+    "date": "2026-05-19",
+    "category": "DEGRADACAO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 25; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-26",
+    "state": "MA",
+    "municipality": "São Luís",
+    "date": "2026-06-22",
+    "category": "AVISTAMENTO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 26; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-27",
+    "state": "PI",
+    "municipality": "Parnaíba",
+    "date": "2026-07-25",
+    "category": "ANIMAL_MORTO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 27; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-28",
+    "state": "PE",
+    "municipality": "Recife",
+    "date": "2026-08-01",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 28; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-29",
+    "state": "PB",
+    "municipality": "João Pessoa",
+    "date": "2026-09-04",
+    "category": "POLUICAO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 29; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-30",
+    "state": "RN",
+    "municipality": "Natal",
+    "date": "2026-10-07",
+    "category": "DEGRADACAO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 30; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-31",
+    "state": "CE",
+    "municipality": "Fortaleza",
+    "date": "2026-01-10",
+    "category": "AVISTAMENTO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 31; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-32",
+    "state": "BA",
+    "municipality": "Salvador",
+    "date": "2026-02-13",
+    "category": "ANIMAL_MORTO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 32; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-33",
+    "state": "AL",
+    "municipality": "Maceió",
+    "date": "2026-03-16",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 33; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-34",
+    "state": "SE",
+    "municipality": "Aracaju",
+    "date": "2026-04-19",
+    "category": "POLUICAO",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 34; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-35",
+    "state": "MA",
+    "municipality": "São Luís",
+    "date": "2026-05-22",
+    "category": "DEGRADACAO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 35; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-36",
+    "state": "PI",
+    "municipality": "Parnaíba",
+    "date": "2026-06-25",
+    "category": "AVISTAMENTO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 36; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-37",
+    "state": "PE",
+    "municipality": "Recife",
+    "date": "2026-07-01",
+    "category": "ANIMAL_MORTO",
+    "status": "PENDING",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 37; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-38",
+    "state": "PB",
+    "municipality": "João Pessoa",
+    "date": "2026-08-04",
+    "category": "CAPTURA_ACIDENTAL",
+    "status": "UNDER_REVIEW",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 38; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-39",
+    "state": "RN",
+    "municipality": "Natal",
+    "date": "2026-09-07",
+    "category": "POLUICAO",
+    "status": "APPROVED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 39; não descreve um evento observado e não constitui dado científico."
+  },
+  {
+    "key": "mare-viva-demo-40",
+    "state": "CE",
+    "municipality": "Fortaleza",
+    "date": "2026-10-10",
+    "category": "DEGRADACAO",
+    "status": "REJECTED",
+    "description": "DEMONSTRAÇÃO FICTÍCIA — relato sintético nº 40; não descreve um evento observado e não constitui dado científico."
+  }
+]
