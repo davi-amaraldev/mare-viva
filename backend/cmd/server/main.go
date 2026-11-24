@@ -104,6 +104,21 @@ func main() {
 	mux.HandleFunc("POST /api/admin/species", a.authorized("ADMIN", "EDITOR")(a.saveSpecies))
 	mux.HandleFunc("PUT /api/admin/species/{id}", a.authorized("ADMIN", "EDITOR")(a.saveSpecies))
 	mux.HandleFunc("DELETE /api/admin/species/{id}", a.authorized("ADMIN", "EDITOR")(a.deleteSpecies))
+	for _, resource := range []string{"indicators", "institutions", "sources"} {
+		roles := []string{"ADMIN", "EDITOR"}
+		mux.HandleFunc("GET /api/admin/"+resource, a.authorized(roles...)(a.adminCollection(resource)))
+		mux.HandleFunc("POST /api/admin/"+resource, a.authorized(roles...)(a.adminCollection(resource)))
+		mux.HandleFunc("PUT /api/admin/"+resource+"/{id}", a.authorized(roles...)(a.adminCollection(resource)))
+		mux.HandleFunc("DELETE /api/admin/"+resource+"/{id}", a.authorized(roles...)(a.adminCollection(resource)))
+	}
+	mux.HandleFunc("GET /api/admin/quiz", a.authorized("ADMIN", "EDITOR")(a.adminQuiz))
+	mux.HandleFunc("POST /api/admin/quiz", a.authorized("ADMIN", "EDITOR")(a.adminQuiz))
+	mux.HandleFunc("PUT /api/admin/quiz/{id}", a.authorized("ADMIN", "EDITOR")(a.adminQuiz))
+	mux.HandleFunc("DELETE /api/admin/quiz/{id}", a.authorized("ADMIN", "EDITOR")(a.adminQuiz))
+	mux.HandleFunc("GET /api/admin/users", a.authorized("ADMIN")(a.adminUsers))
+	mux.HandleFunc("POST /api/admin/users", a.authorized("ADMIN")(a.adminUsers))
+	mux.HandleFunc("PUT /api/admin/users/{id}", a.authorized("ADMIN")(a.adminUsers))
+	mux.HandleFunc("DELETE /api/admin/users/{id}", a.authorized("ADMIN")(a.adminUsers))
 	mux.HandleFunc("GET /api/admin/observations", a.authorized("ADMIN", "MODERATOR")(a.adminObservations))
 	mux.HandleFunc("GET /api/admin/observations/{id}", a.authorized("ADMIN", "MODERATOR")(a.observationDetail))
 	mux.HandleFunc("PATCH /api/admin/observations/{id}/status", a.authorized("ADMIN", "MODERATOR")(a.moderate))

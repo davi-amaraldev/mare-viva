@@ -12,7 +12,7 @@ A desinformação sobre tubarões, a pressão pesqueira e a degradação de habi
 - 12 indicadores científicos com ano, unidade, abrangência, grupo taxonômico e fonte. Indicadores de tubarões, elasmobrânquios e conservação marinha geral são identificados separadamente.
 - Ciência cidadã persistida em SQLite. Relatos reais começam como `PENDING`; somente aprovados aparecem publicamente e continuam identificados como não validados cientificamente.
 - 40 registros sintéticos opcionais para demonstração, distribuídos pelos nove estados nordestinos, com marcação explícita de “DEMONSTRAÇÃO FICTÍCIA” na API e nas telas.
-- Painel administrativo com autenticação JWT em cookies HttpOnly, refresh token rotativo, controle de papéis, dashboard, CRUD de espécies, moderação e auditoria.
+- Painel administrativo com JWT em cookies HttpOnly, dashboard, CRUD de espécies/indicadores/instituições/referências/quiz e usuários por papel, além de moderação e auditoria.
 - 12 instituições e projetos referenciados e 30 questões de quiz com explicação e referência.
 
 ## Stack e arquitetura

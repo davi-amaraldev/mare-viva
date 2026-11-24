@@ -1238,6 +1238,12 @@ em {
 .observation-filters { display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0; }
 .observation-filters label { display: grid; gap: 6px; color: #a6bdc1; font-size: 12px; }
 .observation-filters select { min-width: 150px; padding: 9px 12px; border: 1px solid #ffffff30; border-radius: 8px; background: #09212d; color: #f1f5f9; }
+.simple-record-list { display: grid; }
+.simple-record-list article { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 16px 0; border-top: 1px solid #ffffff20; }
+.simple-record-list article > div:first-child { display: grid; gap: 5px; min-width: 0; }
+.simple-record-list article small { color: #9cb1b6; line-height: 1.5; }
+.simple-record-list article > div:last-child { display: flex; gap: 8px; flex-shrink: 0; }
+.simple-record-list button { padding: 7px 10px; border: 1px solid #47616a; border-radius: 7px; background: transparent; color: #d9e6e8; cursor: pointer; }
 .panel-head {
   display: flex;
   justify-content: space-between;

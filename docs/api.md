@@ -16,6 +16,10 @@ A resposta de sucesso usa `{ "data": ... }` ou um objeto documentado pelo endpoi
 | `GET /api/admin/dashboard` | Métricas do banco (ADMIN/EDITOR/MODERATOR) |
 | `GET/POST /api/admin/species` | Listar/criar espécies (ADMIN/EDITOR) |
 | `PUT/DELETE /api/admin/species/{id}` | Atualizar/arquivar espécie (ADMIN/EDITOR) |
+| `GET/POST /api/admin/{indicators,institutions,sources}` | Listar/criar conteúdo editorial (ADMIN/EDITOR) |
+| `PUT/DELETE /api/admin/{indicators,institutions,sources}/{id}` | Editar/remover conteúdo editorial (ADMIN/EDITOR) |
+| `GET/POST /api/admin/quiz` e `PUT/DELETE /api/admin/quiz/{id}` | CRUD de perguntas e alternativas (ADMIN/EDITOR) |
+| `GET/POST /api/admin/users` e `PUT/DELETE /api/admin/users/{id}` | Gestão de contas (exclusivo ADMIN); DELETE desativa conta |
 | `GET /api/admin/observations` | Filtros por estado, município, categoria e status |
 | `GET /api/admin/observations/{id}` | Detalhe da ocorrência |
 | `PATCH /api/admin/observations/{id}/status` | Moderação e histórico |
@@ -29,4 +33,4 @@ Requisições mutáveis autenticadas precisam de `X-CSRF-Token` igual ao cookie 
 
 ## Escopo ainda não implementado
 
-CRUD administrativo completo de indicadores, instituições, fontes e quiz; gerenciamento de usuários; paginação comum às listas; filtros e histórico detalhado de observações na interface. A página de espécies tem leitura e o backend fornece CRUD, mas o formulário de edição ainda não está na interface.
+Os módulos administrativos de espécies, indicadores, instituições, fontes, quiz e usuários possuem CRUD básico na interface e API. Permanecem pendentes paginação comum a todas as listas e uma tela detalhada de histórico de observações.

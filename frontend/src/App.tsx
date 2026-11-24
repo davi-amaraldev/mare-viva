@@ -1008,6 +1008,36 @@ function Login() {
     </main>
   )
 }
+type AdminResource = 'indicators' | 'institutions' | 'sources' | 'quiz' | 'users'
+const collectionFields: Record<AdminResource, {key:string;label:string;type?:string;required?:boolean;options?:string[]}[]> = {
+  indicators:[{key:'title',label:'Título',required:true},{key:'value',label:'Valor',type:'number',required:true},{key:'unit',label:'Unidade',required:true},{key:'year',label:'Ano',type:'number',required:true},{key:'scope',label:'Abrangência geográfica',required:true},{key:'taxonomic_group',label:'Grupo taxonômico'},{key:'description',label:'Descrição',type:'textarea'},{key:'source_id',label:'ID da fonte',type:'number'},{key:'source_url',label:'URL da publicação',type:'url'},{key:'published',label:'Publicado',type:'checkbox'}],
+  institutions:[{key:'name',label:'Nome',required:true},{key:'state',label:'Estado (UF)'},{key:'city',label:'Município'},{key:'focus',label:'Área de atuação'},{key:'website',label:'Website oficial',type:'url'},{key:'image_url',label:'Imagem local/URL',type:'url'},{key:'description',label:'Descrição',type:'textarea'}],
+  sources:[{key:'title',label:'Título',required:true},{key:'author',label:'Autor ou instituição'},{key:'year',label:'Ano',type:'number',required:true},{key:'url',label:'URL',type:'url',required:true},{key:'doi',label:'DOI'},{key:'kind',label:'Tipo de publicação'},{key:'description',label:'Descrição',type:'textarea'}],
+  users:[{key:'name',label:'Nome',required:true},{key:'email',label:'E-mail',type:'email',required:true},{key:'password',label:'Senha inicial/nova',type:'password'},{key:'role',label:'Papel',type:'select',options:['ADMIN','EDITOR','MODERATOR'],required:true},{key:'active',label:'Conta ativa',type:'checkbox'}],
+  quiz:[],
+}
+function AdminCollection({resource,title}: {resource:AdminResource;title:string}) {
+  const qc=useQueryClient();const [editing,setEditing]=useState<any>(null);const [correctIndex,setCorrectIndex]=useState(0)
+  const query=useQuery({queryKey:['admin-collection',resource],queryFn:()=>api(`/api/admin/${resource}`)})
+  const save=useMutation({mutationFn:({id,payload}:{id?:number;payload:any})=>api(id?`/api/admin/${resource}/${id}`:`/api/admin/${resource}`,{method:id?'PUT':'POST',body:JSON.stringify(payload)}),onSuccess:()=>{setEditing(null);qc.invalidateQueries({queryKey:['admin-collection',resource]});qc.invalidateQueries({queryKey:[resource]});qc.invalidateQueries({queryKey:['indicators']});qc.invalidateQueries({queryKey:['institutions']});qc.invalidateQueries({queryKey:['sources']});qc.invalidateQueries({queryKey:['quiz']})}})
+  const remove=useMutation({mutationFn:(id:number)=>api(`/api/admin/${resource}/${id}`,{method:'DELETE'}),onSuccess:()=>qc.invalidateQueries({queryKey:['admin-collection',resource]})})
+  const rows=query.data?.data||[]
+  const fields=collectionFields[resource]
+  const submit=(event:React.FormEvent<HTMLFormElement>)=>{event.preventDefault();const form=new FormData(event.currentTarget);const payload:any={};for(const field of fields){if(field.type==='checkbox')payload[field.key]=form.get(field.key)==='on';else{const value=form.get(field.key);payload[field.key]=field.type==='number'?(value===''?(field.key==='source_id'?null:0):Number(value)):value}}
+    if(resource==='quiz'){const options=String(form.get('options')||'').split('\n').map(x=>x.trim()).filter(Boolean);payload.options=options.map((label,index)=>({label,correct:index===correctIndex}));payload.published=form.get('published')==='on'}
+    if(resource==='users'&&editing?.id&&!payload.password)delete payload.password
+    save.mutate({id:editing?.id,payload})
+  }
+  return <section className="admin-panel"><div className="panel-head"><div><h2>{title}</h2><p>{rows.length} registros</p></div><button className="approve" onClick={()=>{setCorrectIndex(0);setEditing(resource==='quiz'?{published:true}:resource==='users'?{active:true,role:'EDITOR'}:{published:true})}}>Novo registro</button></div>
+    {editing&&<form className="editor-form" onSubmit={submit}>
+      {resource==='quiz'?<><label>Pergunta<input name="prompt" defaultValue={editing.prompt||''} required/></label><label>Alternativas (uma por linha)<textarea name="options" rows={5} defaultValue={(editing.options||[{label:'',correct:true},{label:'',correct:false}]).map((o:any)=>o.label).join('\n')} required/></label><label>Índice da alternativa correta (começa em zero)<input type="number" min="0" name="correct_index" defaultValue={Math.max(0,(editing.options||[]).findIndex((o:any)=>o.correct))} onChange={e=>setCorrectIndex(Number(e.target.value))}/></label><label>Explicação educativa<textarea name="explanation" rows={3} defaultValue={editing.explanation||''} required/></label><label>Referência URL<input name="source_url" type="url" defaultValue={editing.source_url||''}/></label><label className="check-label"><input type="checkbox" name="published" defaultChecked={editing.published!==false}/> Publicada</label></>:fields.map(f=><label key={f.key}>{f.label}{f.type==='textarea'?<textarea name={f.key} rows={3} defaultValue={editing[f.key]??''} required={f.required}/>:f.type==='checkbox'?<input type="checkbox" name={f.key} defaultChecked={editing[f.key]??(f.key==='active'||f.key==='published')}/>:f.type==='select'?<select name={f.key} defaultValue={editing[f.key]||f.options?.[0]}>{f.options?.map(x=><option key={x}>{x}</option>)}</select>:<input name={f.key} type={f.type||'text'} defaultValue={f.type==='password'?'':editing[f.key]??''} required={f.required} min={f.type==='number'?0:undefined} placeholder={f.type==='password'&&editing.id?'Em branco mantém a senha atual':undefined}/>}</label>)}
+      <div className="editor-actions"><button type="button" onClick={()=>setEditing(null)}>Cancelar</button><button className="approve" disabled={save.isPending}>{save.isPending?'Salvando…':'Salvar'}</button></div>{save.error&&<p className="error">{save.error.message}</p>}
+    </form>}
+    {query.isLoading?<p>Carregando registros…</p>:<div className="simple-record-list">{rows.map((row:any)=><article key={row.id}><div><b>{resource==='quiz'?row.prompt:row.name||row.title||row.email}</b><small>{resource==='quiz'?row.explanation:resource==='indicators'?`${row.value} ${row.unit} · ${row.year} · ${row.scope}`:resource==='institutions'?`${row.city}${row.state?`, ${row.state}`:''} · ${row.focus}`:resource==='users'?`${row.email} · ${row.role} · ${row.active?'ativa':'inativa'}`:`${row.author||''} · ${row.year||''} · ${row.kind||''}`}</small>{resource==='quiz'&&<small>{(row.options||[]).map((o:any,i:number)=>`${o.correct?'✓ ':''}${i+1}. ${o.label}`).join('  ·  ')}</small>}</div><div><button onClick={()=>{setEditing(row);setCorrectIndex(Math.max(0,(row.options||[]).findIndex((o:any)=>o.correct)))}}>Editar</button><button className="reject" onClick={()=>{if(confirm(resource==='users'?'Desativar esta conta?':'Arquivar/remover este registro?'))remove.mutate(row.id)}}>{resource==='users'||resource==='quiz'?'Desativar/arquivar':'Excluir'}</button></div></article>)}</div>}
+    {remove.error&&<p className="error">{remove.error.message}</p>}{!query.isLoading&&!rows.length&&<p className="empty">Nenhum registro cadastrado.</p>}
+  </section>
+}
+
 function Admin() {
   const qc = useQueryClient()
   const nav = useNavigate()
@@ -1079,9 +1109,15 @@ function Admin() {
   const labels: any = {
     dashboard: 'Visão geral',
     species: 'Espécies',
+    indicators: 'Indicadores',
+    institutions: 'Instituições',
     observations: 'Ocorrências',
     sources: 'Referências',
+    quiz: 'Quiz educativo',
+    users: 'Usuários',
   }
+  const role=userData.data?.role
+  const navItems=[['dashboard','Visão geral'],['species','Espécies'],['indicators','Indicadores'],['institutions','Instituições'],['observations','Ocorrências'],['sources','Referências'],['quiz','Quiz educativo'],['users','Usuários']].filter(([key])=>key==='dashboard'||(key==='observations'?role==='ADMIN'||role==='MODERATOR':key==='users'?role==='ADMIN':role==='ADMIN'||role==='EDITOR'))
   return (
     <div className="admin-shell">
       <aside className="admin-side">
@@ -1095,14 +1131,9 @@ function Admin() {
           </span>
         </Link>
         <small className="side-caption">ESPAÇO DE TRABALHO</small>
-        {[
-          ['dashboard', 'Visão geral'],
-          ['species', 'Espécies'],
-          ['observations', 'Ocorrências'],
-          ['sources', 'Referências'],
-        ].map(([k, v]) => (
+        {navItems.map(([k, v]) => (
           <button key={k} onClick={() => setTab(k)} className={tab === k ? 'active' : ''}>
-            {k === 'dashboard' ? <BarChart3 /> : k === 'species' ? <Fish /> : <Anchor />}
+            {k === 'dashboard'||k==='indicators'? <BarChart3 /> : k === 'species'||k==='quiz' ? <Fish /> : k==='users'?<Shield/>:<Anchor />}
             {v}
           </button>
         ))}
@@ -1463,18 +1494,11 @@ function Admin() {
               </p>
             </section>
           )}
-          {tab === 'sources' && (
-            <section className="admin-panel">
-              <h2>Referências catalogadas</h2>
-              <p>
-                Fontes iniciais: ICMBio, IUCN e ONU. Gerenciamento editorial de referências ainda
-                pendente.
-              </p>
-              <Link to="/sobre" className="inline-link">
-                Consultar referências públicas <ArrowRight size={15} />
-              </Link>
-            </section>
-          )}
+          {tab === 'indicators'&&<AdminCollection resource="indicators" title="Indicadores científicos"/>}
+          {tab === 'institutions'&&<AdminCollection resource="institutions" title="Instituições e projetos"/>}
+          {tab === 'sources'&&<AdminCollection resource="sources" title="Referências científicas"/>}
+          {tab === 'quiz'&&<AdminCollection resource="quiz" title="Perguntas do quiz"/>}
+          {tab === 'users'&&userData.data?.role==='ADMIN'&&<AdminCollection resource="users" title="Usuários administrativos"/>}
         </main>
       </section>
     </div>
